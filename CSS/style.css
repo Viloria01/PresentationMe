@@ -1,0 +1,124 @@
+/*Primer cuadro de color azul #2d4059*/
+.darkcolor{
+  background-color: #2d4059;
+}
+
+.imageJulio{
+  position: relative;
+  top: 70px;
+  left: 50px;
+  height: 80px;
+  width: 80px;
+}
+
+.imageCode{
+  position: relative;
+  text-align: center;
+  display:block;
+  margin:auto;
+  margin-top: 0;
+  height: 100px;
+  width: 100px;
+}
+
+.presentation {
+  margin-top: 0;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Chilanka', cursive;
+
+  color: #f07b3f;
+}
+
+
+
+.sillicon {
+  position: relative;
+  margin: auto;
+  display: block;
+  height: 350px;
+  width: 800px;
+  border-radius: 20px;
+}
+/* Segundo cuadro de color azul claro #3b6978*/
+
+.lightcolor{
+  background-color: #3b6978;
+
+}
+
+/*---------------LADO DE LA IZQUIERDA-------*/
+.izquierdaitem{
+  position: relative;
+  left: 1px;
+  top: 150px;
+  height: 370px;
+  width: 370px;
+}
+/*---------------LADO DE LA DERECHA------------------------*/
+.derechaitem{
+ text-align: right;
+ position: relative;
+ bottom: 400px;
+}
+/*----------------------*/
+.item1{
+  position: relative;
+  font-size: 10px;
+  font-family: 'Jaldi', sans-serif;
+
+}
+.uba{
+  position: relative;
+  top: 120px;
+  right: 510px;
+  height: 150px;
+  width: 150px;
+}
+/*----------------------*/
+.item2{
+  position: relative;
+  font-size: 10px;
+  font-family: 'Jaldi', sans-serif;
+
+}
+.imagebuque {
+  position: relative;
+  top: 150px;
+  right: 510px;
+  height: 150px;
+  width: 150px;
+}
+/*----------------------*/
+.item3{
+
+  font-size: 10px;
+  font-family: 'Jaldi', sans-serif;
+
+}
+
+.programador{
+  position: relative;
+  top: 150px;
+  right: 520px;
+  bottom: 10px;
+  height: 150px;
+  width: 150px;
+}
+
+
+
+.text{
+  position: relative;
+  right: 60px;
+  bottom: 40px;
+  font-size: 16px;
+}
+
+.texttitle{
+  position: relative;
+  right: 60px;
+  bottom: 40px;
+  font-size: 25px;
+
+}
